@@ -50,6 +50,6 @@ Each section under **homework_projects** explores essential Python topics:
 ## ⚡ How to Run the Projects
 Clone this repository:
 ```bash
-git clone https://github.com/nisaiqbal000/Project_4
+https://github.com/nisaiqbal000/Project_4
 ```
 
